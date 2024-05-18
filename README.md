@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## TOXIC-MD 🥵🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://telegra.ph/file/63e67912337bc3bea4b0f.jpg">
+    <img alt="toxic-md" height="300" src="https://telegra.ph/file/63e67912337bc3bea4b0f.jpg">
     
   
   </a>
